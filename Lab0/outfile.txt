@@ -1,0 +1,12 @@
+String 1 length is: 10
+String 2 length in bytes is: 47
+String 1 with ASCII encoding is: Hallelujah
+String 2 with ASCII encoding is: Crypto
+String 1 with ASCII->Hex encoding is: 48616c6c656c756a6168
+String 2 with ASCII->Hex encoding is: 43727970746f
+String 1 with Hex->ASCII encoding is: Hallelujah
+String 2 with Hex->ASCII encoding is: Crypto
+String 1 with Hex->b64 encoding is: SGFsbGVsdWphaA==
+String 2 with Hex->b64 encoding is: Q3J5cHRv
+String 1 with b64->Hex encoding is: 48616c6c656c756a6168
+String 2 with b64->Hex encoding is: 43727970746f
